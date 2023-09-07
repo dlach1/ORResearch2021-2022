@@ -4,7 +4,7 @@ The code from my research paper that I created in order to create and test a new
 
 I conducted this research at the University of Connecticut under the mentorshop of Mr. Greg Johnson in the VoTer Center (Department of Computer Science at the time). The published paper can be found [here](https://github.com/dlach1/ORResearch2021-2022/blob/main/Dan%20LaChance%20Research%20Article%202022.pdf).
 
-In creating and testing my implementation I used the Atom IDE to write bash and python commands and I used the Google OR-Tools library which can be found here: [ZXING]([https://developers.google.com/optimization).
+In creating and testing my implementation I used the Atom IDE to write bash and python commands and I used the Google OR-Tools library which can be found here: [OR-Tools]([https://developers.google.com/optimization).
 
 The python file is used to do all of the calculations for the schedule creation and the bash file was used for testing purposes. The bash file ran through three independent variables and tested for the maximum time integer value (or length of day).
 
